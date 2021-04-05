@@ -34,6 +34,10 @@ ZyBooks Digital textbook
 2. Enter zyBook code: SEATTLECENTRALIT212MeredithSpring2021
 3. Subscribe
 
+
+Note: Students can get access to Chapter 1 for free if needed.
+
+
 ## Software we will use in class 				
 
 Eclipse
