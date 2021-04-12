@@ -32,9 +32,13 @@ a.add(Integer()); // error
 
 Interfaces Example:
 https://github.com/ava11235/it212/blob/main/Shape.java
+
 https://github.com/ava11235/it212/blob/main/Triangle.java
+
 https://github.com/ava11235/it212/blob/main/Circle.java
+
 https://github.com/ava11235/it212/blob/main/ShapeTester.java
+
 
 Result:
 
