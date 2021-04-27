@@ -24,6 +24,9 @@ It is possible to have more than one base or recursive case, but all  recursiv
 One of the challenges of  recursive programming is correctly identifying these cases.
 
 ## Reference
+Use the Java visualizer to visualize the execution of the example methods
+
+https://cscircles.cemc.uwaterloo.ca/java_visualize/
 
 https://www.geeksforgeeks.org/recursion-in-java/
 
