@@ -30,66 +30,10 @@ https://www.geeksforgeeks.org/recursion-in-java/
 ## Practice
 zyBooks Ch 4.1 - 4.9 Participation Activities
 
-### Examples
+### RecursionExamples:
+https://github.com/ava11235/it212/blob/main/RecursionExamples.java
 
-```
-//Factorial loop
-  int i,fact=1;  
-	int number=5;//It is the number to calculate factorial    
-	for(i=1;i<=number;i++){    
-	     fact=fact*i;    
-	 }    
-	System.out.println("Factorial of "+ number +" is: "+fact); 
-    
-     
-//Factorial: recursive solution
- static int factorial(int n){   
- 
-  if (n == 0)    //base case
-    return 1;    
-  else    //recursive case
-    return(n * factorial(n-1));    
- }    
- public static void main(String args[]){  
-  int i,fact=1;  
-  int number=4;//It is the number to calculate factorial    
-  fact = factorial(number);   
-  System.out.println("Factorial of "+ number +" is: "+fact);    
- }  
- 
- //Recursive directories search
- public class SearchDirsFiles {
-
-	public static void main(String[] args) {
-		Scanner console = new Scanner(System.in);
-		System.out.print("Directory or File name? ");
-		String name = console.nextLine();
-		File f = new File(name);
-		if(!f.exists()) {
-			System.out.println("No such file or dir found");
-		} else {
-			print(f, 0);
-		}
-
-	}
-	
-	public static void print(File f, int level) {
-		for(int i = 0; i < level; i++) {
-			System.out.print("    ");
-		}
-		System.out.println(f.getName());
-		if(f.isDirectory()) {
-			for (File subF : f.listFiles()) {
-				print(subF, level + 1);
-			}
-		}
-	}
-
-}
-```
-
-
-    
+  
     
 ## Learning Outcomes
 Upon successful completion of the material, students will be able to:
