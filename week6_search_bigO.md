@@ -5,7 +5,7 @@ Example: numPow(2,3) returns 8
 
 Solution:
 
- public static int numPow (int base, int exp) {
+``` public static int numPow (int base, int exp) {
     // base case. any num to zero power is 1
         
     if (exp == 0) {
@@ -15,13 +15,15 @@ Solution:
          return base * numPow(base, exp - 1);
     }
 } 
+```
 
 ### Recursive Exploration 
 Recursion is a good technique for exploring all possibilities
-
+```
 #zyBook 4.7.1
 import java.util.Scanner;
 import java.util.ArrayList;
+
 
 public class NumScrambler {
    public static void scrambleNums(ArrayList<Integer> remainNums, 
@@ -67,6 +69,7 @@ Output:
 492
 429
 
+```
 
 
 ### Searching and Algorithm Analysis
