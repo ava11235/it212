@@ -5,7 +5,8 @@ Example: numPow(2,3) returns 8
 
 Solution:
 
-``` public static int numPow (int base, int exp) {
+``` 
+public static int numPow (int base, int exp) {
     // base case. any num to zero power is 1
         
     if (exp == 0) {
