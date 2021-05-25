@@ -17,9 +17,15 @@ Some common sorting algorithms include:
 * Bcket sort: cluster elements into smaller groups, sort them
 
 
-## Reading
+### Reading
 
 zyBooks Ch 6.1 - 6.8
+
+
+### Examples
+https://github.com/ava11235/it212/blob/main/MergeSort.java
+
+https://github.com/ava11235/it212/blob/main/SelectionSort.java
 
 ## Reference
 
@@ -29,6 +35,7 @@ https://www.youtube.com/watch?v=kPRA0W1kECg&t=3s
 
 See sorting section
 https://www.bigocheatsheet.com/
+
 
 ## Practice
 zyBooks Ch 6.1 - 6.8 Participation Activities 
