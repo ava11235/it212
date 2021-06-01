@@ -59,4 +59,5 @@ Upon successful completion of the material, students will be able to:
 * Define the Linked List ADT and apply its operations to solving coding problems.
 * Define the Stack ADT and  apply its operations to solving coding problems.
 * Define the Queue ADT and apply its operations to solving coding problems.
-*
+* Implement a singly-linked class of integers.
+
