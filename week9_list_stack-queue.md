@@ -38,8 +38,14 @@ Common queue operations are enqueue:  insert an item at the end of the queue, a
 
 zyBooks Ch 7.1 - 7.6, 7.9, 7.10, 7.13, 7.15
 
-
 ### Examples
+
+https://github.com/ava11235/it212/blob/main/ListNode.java
+
+https://github.com/ava11235/it212/blob/main/LinkedIntList.java
+
+https://github.com/ava11235/it212/blob/main/ListTest.java
+
 
 ## Reference
 
