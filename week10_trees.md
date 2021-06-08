@@ -32,7 +32,8 @@ The Java Collections framework has a TreeMap and TreeSet implementations.
 
 Binary Trees average time complexity of Binary Trees for access/search and insert/delete is O(log(n).
 
-* Imgs credit: Wikipedia
+
+*Imgages credit: Wikipedia *
  
 ### Reading
 
