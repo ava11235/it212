@@ -3,7 +3,7 @@
 
 ![Binary Tree](https://upload.wikimedia.org/wikipedia/commons/f/f7/Binary_tree.svg)
 
-A Tree is a directed (has one-way links between nodes) and acyclic(no path wraps back around to the same node twice) structure of linked nodes.
+A Tree is a directed (has one-way links between nodes) and acyclic  (no path wraps back around to the same node twice) structure of linked nodes.
 
 Using a recursive definition, a tree is either 
 empty (null)
