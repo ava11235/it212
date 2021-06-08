@@ -28,7 +28,9 @@ Tree height: the length of the longest path from root to a node.
 
 Tree applications Organizational charts, directories and files on a computer, AI decision trees. 
 
-The Java Collections framework has a TreeMap and TreeSet implementations. 
+The Java Collections framework has a TreeMap and TreeSet implementations.
+
+Binary Trees average time complexity of Binary Trees for access/search and insert/delete is O(log(n).
 
 * Imgs credit: Wikipedia
  
