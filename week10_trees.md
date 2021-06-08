@@ -16,6 +16,20 @@ The left and/or right subtree can be empty.
 
 A binary tree is one where each node has no more than two children.
 
+Tree node: an object containing data and a left and right node children.
+
+Root: the top node of the tree.
+
+Leaf: A node without children.
+
+Branch: any node that is neither the roof nor a leaf.
+
+Tree height: the length of the longest path from root to a node.
+
+Tree applications Organizational charts, directories and files on a computer, AI decision trees. 
+
+The Java Collections framework has a TreeMap and TreeSet implementations. 
+
 * Imgs credit: Wikipedia
  
 ### Reading
